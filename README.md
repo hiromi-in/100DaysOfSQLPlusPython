@@ -15,26 +15,20 @@ This repository is my learning log, project archive, and public accountability t
 ---
 
 ## 📂 Repository Structure
-/day01/
-notes.md
-solution.sql
-solution.py
-/day02/
+/day01/  
+notes.md  
+solution.sql  
+solution.py  
+/day02/...  
 
-...
+/datasets/  
+sales_10000.csv  
 
-/datasets/
-sales_10000.csv
+/scripts/  
+helpers.py  
+README.md  
 
-...
-
-/scripts/
-helpers.py
-README.md
-
-
-
-
+  
 Each day lives in its own folder and includes:
 - ✔ Code (SQL or Python)
 - ✔ Short explanation
