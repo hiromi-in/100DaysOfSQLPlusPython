@@ -22,10 +22,12 @@ solution.py
 /day02/
 
 ...
+
 /datasets/
 sales_10000.csv
 
 ...
+
 /scripts/
 helpers.py
 README.md
