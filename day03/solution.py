@@ -49,10 +49,11 @@ price_counts = {
     f"75-100%({seventyFive}-{price_max})": len(df_75_100)
 }
 
-print('-----------Price Counts-----')
+print('\n-----------Price Counts-----')
 print(price_counts)
 
-print('------describe-----------')
+print('\n------describe-----------')
 print(df.describe())
+
 
 
